@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+**Name:** HARSHAVARTHAN M
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Company:** CODTECH IT SOLUTIONS
 
-## Available Scripts
+**ID:** CT4FS4756 OFFER
 
-In the project directory, you can run:
+**Domain:** FULL STACK
 
-### `npm start`
+**Duration:** JULY 10th,2024 to AUGUST 10th,2024
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Mentor:** MUZAMMIL AHMED
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+****Overview of the Project****
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (100)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-2-social_media_app/blob/main/assets/Screenshot%20(100).png)
+![Screenshot (101)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-2-social_media_app/blob/main/assets/Screenshot%20(101).png)
+![Screenshot (102)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-2-social_media_app/blob/main/assets/Screenshot%20(102).png)
 
-### `npm run eject`
+***Project: BLOG APPLICATION USING MERNSTACK***
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Objective**
+<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The Objective of this project is to create a fullstack application with a backend to manage content.This Projects helps you to learn HTML, CSS, JAVASCRIPT and backend frameworks like React,Express.js etc
+that manages blog posts.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br>
 
-## Learn More
+***Key Activities***
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Visualize Projects:** Displaying created blog post by user
+- **Blog post:** Displaying works and posts picture
+- **Register/Login:** Login and register account with managed database
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br>
 
-### Code Splitting
+-***Technologies Used***
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **React js:** The primary programming language to create this Project.
+- **CSS:** This style sheets are used to design blog application as attractive and user friendly.  
+- **JAVASCRIPT:** Used to Perform operation.
+- **EXPRESS.JS:** Used to manage users and Blog posts posted by the user.
