@@ -19,9 +19,12 @@
 
 <br>
 
-![Screenshot (100)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-2-social_media_app/blob/main/assets/Screenshot%20(100).png)
-![Screenshot (101)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-2-social_media_app/blob/main/assets/Screenshot%20(101).png)
-![Screenshot (102)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-2-social_media_app/blob/main/assets/Screenshot%20(102).png)
+![Screenshot (103)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-1-web_blog/blob/main/assets/Screenshot%20(103).png)
+![Screenshot (104)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-1-web_blog/blob/main/assets/Screenshot%20(104).png)
+![Screenshot (105)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-1-web_blog/blob/main/assets/Screenshot%20(105).png)
+![Screenshot (106)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-1-web_blog/blob/main/assets/Screenshot%20(106).png)
+![Screenshot (107)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-1-web_blog/blob/main/assets/Screenshot%20(107).png)
+![Screenshot (108)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-1-web_blog/blob/main/assets/Screenshot%20(108).png)
 
 ***Project: BLOG APPLICATION USING MERNSTACK***
 
